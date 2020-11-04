@@ -1,0 +1,1 @@
+8681fa22-53a6-40fb-9212-c4a36560c97c chunk=100MB encryption=none externaltype=rclone name=gdrive prefix=projects/nlo/test-dir1 rclone_layout=lower target=gd-sig type=external timestamp=1604463590.479787s
